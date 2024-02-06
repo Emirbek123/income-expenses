@@ -1,0 +1,10 @@
+pychace/
+venv/
+.idea/
+
+media/
+myproject/
+
+db.sqlite3
+
+.env
